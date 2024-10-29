@@ -51,6 +51,28 @@
 7. type '_npm start_'
 8. Check whether your changes in code is updated or not
 
+
+### Bootstrap
+- Bootstrap is a CSS framework. It consist various types of pre-existing styles for your elements
+- Just import and use them to save your time.
+- Other than Bootstrap we have
+   - Bootsrap
+   - Animate
+   - Foundation
+   - UIkit
+   - Skeleton
+   - Tailwind
+   - Materialize
+   - material design lite
+   - Semantic UI
+   - Belma
+   - Metro UI
+ - Advantages of Bootstrap
+   1. Easy & fast to use
+   2. Pre built components
+   3. consistant and professional styling
+   4. Browser conmpatibility
+
 ### Now you can start designing
 
 - Create 2 folders in src Components & Assets to store photos/videos etc.
